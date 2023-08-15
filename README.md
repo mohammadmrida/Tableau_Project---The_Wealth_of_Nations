@@ -1,4 +1,5 @@
-# Tableau_Project---The_Wealth_of_Nations
+# Dashboard By Tableau
+## Project Name: The_Wealth_of_Nations
 
 Dashboard
 
