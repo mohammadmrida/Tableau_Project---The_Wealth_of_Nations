@@ -1,5 +1,22 @@
 # Dashboard By Tableau
 ## Project Name: The Wealth of Nations
+<p>
+</p>
+
+
+### Summary:
+#### :clipboard: <strong>Sample Data:</strong> The Wealth of Nations
+#### :clipboard: <strong>Sample Size:</strong> 1337 rows of data
+#### :clipboard: <strong>Observation (Column):</strong> Data set contained 7 obeservations - Age, Sex, BMI, Children, Smoker, Region, and Charges
+#### :bar_chart: <strong>ETL and Visualisation Tools:</strong> Excel, Tableau
+
+<br>
+
+<br>
+  
+(---)
+### :mag_right: EDA - Exploratory Data Analysis:
+#### :high_brightness:  Top 5 rows of data
 
 Dashboard
 
